@@ -12,3 +12,5 @@ To practice shell commands, Git initialization, status checking, staging, and co
 Git helps track changes without creating many duplicate filenames.
 
 Date : 29/04/2026
+
+Modify commands and readme
