@@ -1,0 +1,8 @@
+1. With version control we can track the file version easier than rename the project each time there is a new version of it. We can also track who change what. We can also share the same project using github.
+2. git status shows each things you changed inside the directory (GPS) so you can choose which changes you want to keep (checkpoint)
+3. The staging area is here to select what changes you want to save and keep a track of want you changed
+4. An untracked file is a new file in the directory that isn't yet added, while modified file is a file that has been added but modified.
+5. Git needs name and email to identify who adds new changes
+6. git init create a hiddend directory that contains the config/history/references to commits and branches
+7. Writting meaningful  commit message helps you to remember and indicated to other what you did.
+8. I already used git and github before but only with VsCode interface, so I would say the commands
